@@ -1,0 +1,33 @@
+    body{
+        background-image: url("zoomimage1.jpg");
+        direction: rtl;
+        }
+		
+    label{
+            color:#f6faf6e7;
+            display: inline-block;
+            width: 150px;
+            height: 60px;
+        }
+		
+    button {
+      background-color: green; 
+      color: white;       
+      padding: 10px ;     
+      font-size: 15px;          
+      border: none;            
+      border-radius: 5px;      
+      cursor: pointer;          
+      transition: background-color 0.3s; 
+    }
+	
+	h1{
+		font-family:times;
+		font-size:40px;
+		color:black;
+		text-align:center;
+	}
+	
+	div{
+		margin: 20px;
+	}
